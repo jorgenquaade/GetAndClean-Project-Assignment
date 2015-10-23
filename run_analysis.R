@@ -27,7 +27,7 @@ y_train <- read.table("~/DataScience/GetandClean/project/data/train/y_train.txt"
 colnames(x_test) <- as.character(features[,2])
 colnames(x_train) <- as.character(features[,2])
 
-## Renaming subject column to Subject. Person would be more polite
+## Renaming subject_test column V2 to Subject. Person would be more polite
 ## but we'll stick with the more clinical Subject
 
 colnames(subject_test) <- c("Subject")

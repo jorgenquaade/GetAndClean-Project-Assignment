@@ -26,4 +26,4 @@ The activity labels are added to the Activity columns giving meaningful names to
 
 Finally, the aggregate function is used to calculate the mean of the values for the rows with the same subject/activity combination.
 
-See the run_analysis.R script for full commands and explanations and the codebook.md for more descriptions of data and teh choices made when naming columns etc.
+See the run_analysis.R script for full commands and explanations and the codebook.md for more descriptions of data and the choices made when naming columns etc.
